@@ -3,13 +3,13 @@
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/hemanshimarwaha" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="150" height="40"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="120" height="35"/>
     </a>
   </div>
 
-  <img src="https://komarev.com/ghpvc/?username=hemanshi-marwaha&style=flat-square&color=blue" alt="Profile Views" width="200" height="40"/>
+  <img src="https://komarev.com/ghpvc/?username=hemanshi-marwaha&style=flat-square&color=blue" alt="Profile Views" width="150" height="35"/>
 
-  <h1 style="font-size: 48px;">
+  <h1 style="font-size: 40px;">
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
