@@ -31,7 +31,7 @@ I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - :zap: In my free time, I tackle data challenges on Kaggle and stay updated on the latest trends in market intelligence and analytics.
 
 - :mailbox: You can reach me at marwaha.hemanshi@gmail.com
-
+ 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
